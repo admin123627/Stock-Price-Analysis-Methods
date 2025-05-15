@@ -1,6 +1,6 @@
-# Finance Data Science Toolkit
+# Learning Methods in Data Science and Applications
 
-Welcome to the **Finance Data Science Toolkit**, a collection of Python scripts and notebooks focused on applying machine learning and statistical techniques to financial data.  
+Welcome to my repository, a collection of Python scripts and notebooks focused on applying machine learning and statistical techniques to things such as financial data.  
 
 This repository contains:
 
